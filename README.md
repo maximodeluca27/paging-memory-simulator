@@ -43,3 +43,12 @@ El objetivo es visualizar:
 - la interferencia entre procesos
 - el funcionamiento de FIFO en memoria virtual
 
+## 🛠️ Tecnologías utilizadas
+
+- **Python 3**
+- **Pandas** – procesamiento de accesos a memoria
+- **SQLite** – persistencia del log y consultas SQL
+- **Google Colab** – entorno de ejecución
+- **Git & GitHub** – control de versiones
+
+
